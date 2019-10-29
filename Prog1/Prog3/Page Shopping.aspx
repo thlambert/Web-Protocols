@@ -4,45 +4,70 @@
 
 
         
-    <span id="ContentPlaceHolder1_lblID" style="display:inline-block;width:15%;z-index: 1; position: relative; width: 15%; margin-left:17.5%; text-align: center">Product ID</span>
-
-    <span id="ContentPlaceHolder1_Label1" style="display:inline-block;width:15%;z-index: 1; position: relative; width: 15%; margin-left:10%; text-align: center">Product Name</span>
-
-    <span id="ContentPlaceHolder1_Label3" style="display:inline-block;width:15%;z-index: 1; position: relative; width: 15%; margin-left:10%; text-align: center">Price</span>
-
-    <br /> 
-
-    <input name="ctl00$ContentPlaceHolder1$txtID" type="text" onchange="javascript:setTimeout(&#39;WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolder1$txtID&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))&#39;, 0)" onkeypress="if (WebForm_TextBoxKeyHandler(event) == false) return false;" id="ContentPlaceHolder1_txtID" style="border-style:Solid;z-index: 1; position: relative; width: 15%; margin-left:17.5%" />
-
-    <input name="ctl00$ContentPlaceHolder1$txtName" type="text" readonly="readonly" id="ContentPlaceHolder1_txtName" style="border-style:Solid;z-index: 1; position: relative; width: 15%; margin-left:10%; text-align: right" />
-
-    <input name="ctl00$ContentPlaceHolder1$txtPrice" type="text" readonly="readonly" onchange="javascript:setTimeout(&#39;WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolder1$txtPrice&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))&#39;, 0)" onkeypress="if (WebForm_TextBoxKeyHandler(event) == false) return false;" id="ContentPlaceHolder1_txtPrice" style="border-style:Solid;z-index: 1; position: relative; width: 15%; margin-left:10%; text-align: right" />
-
-
-    <br /> <br /> <br /> <br /> <br />
-
-    <span id="ContentPlaceHolder1_Label2" style="display:inline-block;width:15%;z-index: 1; position: relative; width: 15%; margin-left:17.5%; text-align: center">Quantity</span>
-
-    <br /> 
-
-    <input name="ctl00$ContentPlaceHolder1$txtQuanity" type="text" onchange="javascript:setTimeout(&#39;WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolder1$txtQuanity&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))&#39;, 0)" onkeypress="if (WebForm_TextBoxKeyHandler(event) == false) return false;" id="ContentPlaceHolder1_txtQuanity" style="border-style:Solid;z-index: 1; position: relative; width: 15%; margin-left:17.5%" />
-
-    <br /> <br /> 
-
-        <br /> <br /> <br /> <br /> <br />
-
-
-    <span id="ContentPlaceHolder1_Label4" style="display:inline-block;width:15%;z-index: 1; position: relative; width: 15%; margin-left:17.5%; text-align: center">Sub Total</span>
-
-    <span id="ContentPlaceHolder1_Label5" style="display:inline-block;height:19px;z-index: 1; position: relative; width: 15%; margin-left:10%; text-align: center">Tax</span>
-
-    <span id="ContentPlaceHolder1_Label6" style="display:inline-block;width:15%;z-index: 1; position: relative; width: 15%; margin-left:10%; text-align: center">Grand Total</span>
-
-    <input name="ctl00$ContentPlaceHolder1$txtSubTotal" type="text" readonly="readonly" id="ContentPlaceHolder1_txtSubTotal" tabindex="-1" style="border-style:Solid;z-index: 1; position: relative; width: 15%; margin-left:17.5%; text-align:right" />
-
-    <input name="ctl00$ContentPlaceHolder1$txtTax" type="text" readonly="readonly" id="ContentPlaceHolder1_txtTax" tabindex="-1" style="border-style:Solid;z-index: 1; position: relative; width: 15%; margin-left:10%; text-align: right" />
-
-    <input name="ctl00$ContentPlaceHolder1$txtGrandTotal" type="text" readonly="readonly" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$ContentPlaceHolder1$txtGrandTotal\&#39;,\&#39;\&#39;)&#39;, 0)" onkeypress="if (WebForm_TextBoxKeyHandler(event) == false) return false;" id="ContentPlaceHolder1_txtGrandTotal" tabindex="-1" style="border-style:Solid;z-index: 1; position: relative; width: 15%; margin-left:10%; text-align: right" />
-
-</div>
-    </asp:Content>
+    <table style="width: 100%">
+        <tr>
+            <td>Product ID</td>
+            <td>Product Name</td>
+            <td>Price</td>
+        </tr>
+        <tr>
+            <td>
+                <asp:TextBox ID="txtID" runat="server" OnTextChanged="txtChange"></asp:TextBox>
+            </td>
+            <td>
+                <asp:TextBox ID="txtName" runat="server"></asp:TextBox>
+            </td>
+            <td>
+                <asp:TextBox ID="txtPrice" runat="server"></asp:TextBox>
+            </td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Quantity</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td style="height: 26px">
+                <asp:TextBox ID="txtQuantity" runat="server"></asp:TextBox>
+            </td>
+            <td style="height: 26px"></td>
+            <td style="height: 26px"></td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Sub Total</td>
+            <td>Tax</td>
+            <td>Grand Total</td>
+        </tr>
+        <tr>
+            <td>
+                <asp:TextBox ID="txtSubTot" runat="server"></asp:TextBox>
+            </td>
+            <td>
+                <asp:TextBox ID="txtTax" runat="server"></asp:TextBox>
+            </td>
+            <td>
+                <asp:TextBox ID="txtGrandTot" runat="server"></asp:TextBox>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <asp:Button ID="btnCompute" runat="server" OnClick="btnCalculate" Text="Compute" />
+            </td>
+            <td>&nbsp;</td>
+            <td>
+                <asp:Button ID="btnReset" runat="server" OnClick="btnReset1" Text="Reset" />
+            </td>
+        </tr>
+    </table>
+&nbsp;
+</asp:Content>

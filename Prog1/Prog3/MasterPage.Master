@@ -13,8 +13,9 @@
             <h2 class="CS3870Name">Thomas Lambert</h2>
 <ul class="navbar">
             <li> <a href="Page Default.aspx"> All Products </a></li>
-            <li> <a href="Page Shopping.aspx"> Updating Products </a></li>
-            <li> <a href="Page Updating.aspx"> Shopping </a></li>
+            <li> <a href="Page Updating.aspx"> Updating Products </a></li>
+            <li> <a href="Page Shopping.aspx"> Shopping </a></li>
+            
 </ul>
     </div>
         <asp:ContentPlaceHolder ID="ContentPH1" runat="server">

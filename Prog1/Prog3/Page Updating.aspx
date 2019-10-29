@@ -3,48 +3,96 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPH1" runat="server">
 
        
-    <input type="submit" name="ctl00$ContentPlaceHolder1$btnFirst" value="First" id="ContentPlaceHolder1_btnFirst" disabled="disabled" class="aspNetDisabled" style="z-index: 1; position: relative; width: 10%; margin-left:22.5%; text-align: center" />
-
-    <input type="submit" name="ctl00$ContentPlaceHolder1$btnPrevious" value="Previous" id="ContentPlaceHolder1_btnPrevious" disabled="disabled" class="aspNetDisabled" style="z-index: 1; position: relative; width: 10%; margin-left:5%; text-align: center" />
-
-    <input type="submit" name="ctl00$ContentPlaceHolder1$btnNext" value="Next" id="ContentPlaceHolder1_btnNext" style="z-index: 1; position: relative; width: 10%; margin-left:5%; text-align: center" />
-
-    <input type="submit" name="ctl00$ContentPlaceHolder1$btnLast" value="Last" id="ContentPlaceHolder1_btnLast" style="z-index: 1; position: relative; width: 10%; margin-left:5%; text-align: center" />
+&nbsp;&nbsp;
 
     <br /> <br /> 
     <br /> <br /> 
 
-    <span id="ContentPlaceHolder1_lblID" style="display:inline-block;width:15%;z-index: 1; position: relative; width: 15%; margin-left:12.5%; text-align: center">Product ID</span>
+    <br />
+    <table style="width: 100%">
+        <tr>
+            <td>
+       
+    <asp:Button ID="btnFirst" runat="server" Text="First" OnClick="btnFirst_Click" />
+            </td>
+            <td>
+    <asp:Button ID="btnPrevious" runat="server" Text="Previous" OnClick="btnPrevious_Click" />
+            </td>
+            <td>
+    <asp:Button ID="btnNext" runat="server" Text="Next" OnClick="btnNext_Click" />
+            </td>
+            <td>
+    <asp:Button ID="btnLast" runat="server" Text="Last" OnClick="btnLast_Click" />
 
-    <span id="ContentPlaceHolder1_Label1" style="display:inline-block;width:15%;z-index: 1; position: relative; width: 15%; margin-left:5%; text-align: center">Product Name</span>
+            </td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Product ID</td>
+            <td>Product Name</td>
+            <td>Unit Price</td>
+            <td>Description</td>
+        </tr>
+        <tr>
+            <td> 
 
-    <span id="ContentPlaceHolder1_Label2" style="display:inline-block;width:15%;z-index: 1; position: relative; width: 15%; margin-left:5%; text-align: center">Unit Price</span>
+    <asp:TextBox ID="txtID" runat="server"></asp:TextBox>
+            </td>
+            <td>
+    <asp:TextBox ID="txtName" runat="server"></asp:TextBox>
+            </td>
+            <td>
+    <asp:TextBox ID="txtPrice" runat="server"></asp:TextBox>
+            </td>
+            <td>
+    <asp:TextBox ID="txtDesc" runat="server"></asp:TextBox>
+            </td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td> 
 
-    <span id="ContentPlaceHolder1_Label3" style="display:inline-block;width:15%;z-index: 1; position: relative; width: 15%; margin-left:5%; text-align: center">Description</span>
+    <asp:Button ID="btnUpdate" runat="server" Text="Update" OnClick="btnUpdate_Click" />
+            </td>
+            <td>
+    <asp:Button ID="btnDelete" runat="server" Text="Delete" OnClick="btnDelete_Click" />
+            </td>
+            <td>
+    <asp:Button ID="btnNew" runat="server" Text="New" OnClick="btnNew_Click" />
+            </td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+    </table>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
-        <br /> 
-
-    <input name="ctl00$ContentPlaceHolder1$txtID" type="text" value="1   " readonly="readonly" id="ContentPlaceHolder1_txtID" style="border-style:Solid;z-index: 1; position: relative; width: 15%; margin-left:12.5%" />
-
-    <input name="ctl00$ContentPlaceHolder1$txtName" type="text" value="1" id="ContentPlaceHolder1_txtName" style="border-style:Solid;z-index: 1; position: relative; width: 15%; margin-left:5%" />
-
-    <input name="ctl00$ContentPlaceHolder1$txtPrice" type="text" value="$1.00" id="ContentPlaceHolder1_txtPrice" style="border-style:Solid;z-index: 1; position: relative; width: 15%; margin-left:5%; text-align: right" />
-
-    <input name="ctl00$ContentPlaceHolder1$txtDescription" type="text" value="5" id="ContentPlaceHolder1_txtDescription" style="border-style:Solid;z-index: 1; position: relative; width: 15%; margin-left:5%" />
-
-        <br /> <br /> 
-    <br /> <br /> 
-
-    <input type="submit" name="ctl00$ContentPlaceHolder1$btnUpdate" value="Update" id="ContentPlaceHolder1_btnUpdate" style="z-index: 1; position: relative; width: 10%; margin-left:25%; text-align: center" />
-
-    <input type="submit" name="ctl00$ContentPlaceHolder1$btnDelete" value="Delete" id="ContentPlaceHolder1_btnDelete" style="z-index: 1; position: relative; width: 10%; margin-left:10%; text-align: center" />
-
-    <input type="submit" name="ctl00$ContentPlaceHolder1$btnNew" value="New" id="ContentPlaceHolder1_btnNew" style="z-index: 1; position: relative; width: 10%; margin-left:10%; text-align: center" />
-
-    <br /> <br /> 
-    <br /> <br /> 
-
-    <textarea name="ctl00$ContentPlaceHolder1$txtMsg" rows="2" cols="20" readonly="readonly" id="ContentPlaceHolder1_txtMsg" style="height:200px;z-index: 1; position: relative; width: 40%; margin-left:30%">
-</textarea>
+    <asp:TextBox ID="txtMsg" runat="server" Height="59px" Width="273px" style="margin-left: 0px"></asp:TextBox>
 
     </asp:Content>

@@ -1,0 +1,28 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="Prog1.Prog3.MasterPage" %>
+
+<!DOCTYPE html>
+<link rel="stylesheet" type="text/css" href="../StyleSheetProg3.css" />
+<html>
+<head runat="server">
+    <title>CS 3870 - Prog4</title>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+            <h1 class="CS3870Title">Web Protocols, Technologies and Applications </h1>
+            <h2 class="CS3870Name">Thomas Lambert</h2>
+    </div>
+    <div class ="Absolute">
+        <asp:ContentPlaceHolder ID="ContentPH1" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+        <asp:TreeView ID="TreeView1" runat="server" Height="150px" Width="110px" class ="Width-20-MarginLeft-10">
+            <Nodes>
+                <asp:TreeNode NavigateUrl="~/Prog4/Page Default.aspx" Text="All Products" Value="All Products"></asp:TreeNode>
+                <asp:TreeNode NavigateUrl="~/Prog4/Page Updating.aspx" Text="Updating Products" Value="Updating Products"></asp:TreeNode>
+                <asp:TreeNode NavigateUrl="~/Prog4/Page Shopping.aspx" Text="Shopping" Value="Shopping"></asp:TreeNode>
+            </Nodes>
+        </asp:TreeView>
+    </form>
+</body>
+</html>

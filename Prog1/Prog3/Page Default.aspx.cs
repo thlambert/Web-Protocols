@@ -11,7 +11,9 @@ namespace Prog1.Prog3
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            SQLDataClass.getAllProducts();
+            ProductGrid.DataSource = SQLDataClass.tblProduct;
+            ProductGrid.DataBind();
         }
     }
 }

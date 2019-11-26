@@ -1,0 +1,46 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Prog6MasterPage.Master.cs" Inherits="Prog1.Prog6.MasterPage" %>
+
+<!DOCTYPE html>
+<link rel="stylesheet" type="text/css" href="../StyleSheetProg3.css" />
+<html>
+<head runat="server">
+    <title>CS 3870 - Prog6</title>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+            <h1 class="CS3870Title">Web Protocols, Technologies and Applications </h1>
+            <h2 class="CS3870Name">Thomas Lambert</h2>
+            <h3 class ="CS3870Name2"> Prog 6</h3>
+    </div>
+    <div>
+        <p class ="right">  
+            <asp:Button ID="txtLogOut" runat="server" Text="Logout" OnClick="txtLogOut_Click" />
+        </p>
+            
+    </div>
+    <div class ="Absolute">
+        <asp:TreeView ID="TreeView1" runat="server" Height="150px" Width="110px" class ="Width-20-MarginLeft-10" OnSelectedNodeChanged="TreeView1_SelectedNodeChanged">
+            <Nodes>
+                <asp:TreeNode Text="UWP CS 3870" Value="UWP CS 3870" SelectAction="None">
+                    <asp:TreeNode NavigateUrl="~/Prog6/CreateUser.aspx" Text="Create Users" Value="Create Users"></asp:TreeNode>
+                    <asp:TreeNode NavigateUrl="~/Prog5/Page Default.aspx" Text="Prog 5" Value="Prog 5"></asp:TreeNode>
+                    <asp:TreeNode NavigateUrl="~/Prog6/Page Default.aspx" Text="Prog 6" Value="Prog 6">
+                        <asp:TreeNode SelectAction="None" Text="Admin" Value="Admin">
+                            <asp:TreeNode NavigateUrl="~/Prog6/SetRoles.aspx" Text="Set Roles" Value="Set Roles"></asp:TreeNode>
+                            <asp:TreeNode NavigateUrl="~/Prog6/Page Updating.aspx" Text="Updating Products" Value="Updating Products"></asp:TreeNode>
+                        </asp:TreeNode>
+                        <asp:TreeNode SelectAction="None" Text="Member" Value="Member">
+                            <asp:TreeNode NavigateUrl="~/Prog6/Page Shopping.aspx" Text="Shopping" Value="Shopping"></asp:TreeNode>
+                            <asp:TreeNode NavigateUrl="~/Prog6/Checkout.aspx" Text="Checkout" Value="Checkout"></asp:TreeNode>
+                        </asp:TreeNode>
+                    </asp:TreeNode>
+                </asp:TreeNode>
+            </Nodes>
+        </asp:TreeView>
+        <asp:ContentPlaceHolder ID="ContentPH1" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,286 @@
+C:\Users\rodriguesn\Documents\GitHub\Web_Protocols_Final_Project\PVille_Market\PVille_Market\obj\Debug\PVille_Market.csprojResolveAssemblyReference.cache
+C:\Users\rodriguesn\Documents\GitHub\Web_Protocols_Final_Project\PVille_Market\PVille_Market\obj\Debug\PVille_Market.csproj.CoreCompileInputs.cache
+J:\final\trunk\PVille_Market\PVille_Market\bin\PVille_Market.dll.config
+J:\final\trunk\PVille_Market\PVille_Market\bin\PVille_Market.dll
+J:\final\trunk\PVille_Market\PVille_Market\bin\PVille_Market.pdb
+J:\final\trunk\PVille_Market\PVille_Market\bin\roslyn\csc.exe
+J:\final\trunk\PVille_Market\PVille_Market\bin\roslyn\csc.exe.config
+J:\final\trunk\PVille_Market\PVille_Market\bin\roslyn\csc.rsp
+J:\final\trunk\PVille_Market\PVille_Market\bin\roslyn\csi.exe
+J:\final\trunk\PVille_Market\PVille_Market\bin\roslyn\csi.exe.config
+J:\final\trunk\PVille_Market\PVille_Market\bin\roslyn\csi.rsp
+J:\final\trunk\PVille_Market\PVille_Market\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+J:\final\trunk\PVille_Market\PVille_Market\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+J:\final\trunk\PVille_Market\PVille_Market\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+J:\final\trunk\PVille_Market\PVille_Market\bin\roslyn\Microsoft.CodeAnalysis.dll
+J:\final\trunk\PVille_Market\PVille_Market\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+J:\final\trunk\PVille_Market\PVille_Market\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+J:\final\trunk\PVille_Market\PVille_Market\bin\roslyn\Microsoft.CSharp.Core.targets
+J:\final\trunk\PVille_Market\PVille_Market\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+J:\final\trunk\PVille_Market\PVille_Market\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+J:\final\trunk\PVille_Market\PVille_Market\bin\roslyn\Microsoft.VisualBasic.Core.targets
+J:\final\trunk\PVille_Market\PVille_Market\bin\roslyn\Microsoft.Win32.Primitives.dll
+J:\final\trunk\PVille_Market\PVille_Market\bin\roslyn\System.AppContext.dll
+J:\final\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Collections.Immutable.dll
+J:\final\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Console.dll
+J:\final\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+J:\final\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Diagnostics.Process.dll
+J:\final\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Diagnostics.StackTrace.dll
+J:\final\trunk\PVille_Market\PVille_Market\bin\roslyn\System.IO.Compression.dll
+J:\final\trunk\PVille_Market\PVille_Market\bin\roslyn\System.IO.FileSystem.dll
+J:\final\trunk\PVille_Market\PVille_Market\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+J:\final\trunk\PVille_Market\PVille_Market\bin\roslyn\System.IO.FileSystem.Primitives.dll
+J:\final\trunk\PVille_Market\PVille_Market\bin\roslyn\System.IO.Pipes.dll
+J:\final\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Reflection.Metadata.dll
+J:\final\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Security.AccessControl.dll
+J:\final\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Security.Claims.dll
+J:\final\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+J:\final\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Security.Cryptography.Encoding.dll
+J:\final\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Security.Cryptography.Primitives.dll
+J:\final\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+J:\final\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Security.Principal.Windows.dll
+J:\final\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Text.Encoding.CodePages.dll
+J:\final\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Threading.Thread.dll
+J:\final\trunk\PVille_Market\PVille_Market\bin\roslyn\System.ValueTuple.dll
+J:\final\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Xml.ReaderWriter.dll
+J:\final\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Xml.XmlDocument.dll
+J:\final\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Xml.XPath.dll
+J:\final\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Xml.XPath.XDocument.dll
+J:\final\trunk\PVille_Market\PVille_Market\bin\roslyn\vbc.exe
+J:\final\trunk\PVille_Market\PVille_Market\bin\roslyn\vbc.exe.config
+J:\final\trunk\PVille_Market\PVille_Market\bin\roslyn\vbc.rsp
+J:\final\trunk\PVille_Market\PVille_Market\bin\roslyn\VBCSCompiler.exe
+J:\final\trunk\PVille_Market\PVille_Market\bin\roslyn\VBCSCompiler.exe.config
+J:\final\trunk\PVille_Market\PVille_Market\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+J:\final\trunk\PVille_Market\PVille_Market\bin\Microsoft.Web.Infrastructure.dll
+J:\final\trunk\PVille_Market\PVille_Market\bin\System.Web.Helpers.dll
+J:\final\trunk\PVille_Market\PVille_Market\bin\System.Web.Mvc.dll
+J:\final\trunk\PVille_Market\PVille_Market\bin\System.Web.Razor.dll
+J:\final\trunk\PVille_Market\PVille_Market\bin\System.Web.Webpages.Deployment.dll
+J:\final\trunk\PVille_Market\PVille_Market\bin\System.Web.Webpages.dll
+J:\final\trunk\PVille_Market\PVille_Market\bin\System.Web.Webpages.Razor.dll
+J:\final\trunk\PVille_Market\PVille_Market\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+J:\final\trunk\PVille_Market\PVille_Market\bin\System.Web.Razor.xml
+J:\final\trunk\PVille_Market\PVille_Market\bin\System.Web.Webpages.xml
+J:\final\trunk\PVille_Market\PVille_Market\bin\System.Web.Webpages.Deployment.xml
+J:\final\trunk\PVille_Market\PVille_Market\bin\System.Web.Webpages.Razor.xml
+J:\final\trunk\PVille_Market\PVille_Market\bin\System.Web.Helpers.xml
+J:\final\trunk\PVille_Market\PVille_Market\bin\System.Web.Mvc.xml
+J:\final\trunk\PVille_Market\PVille_Market\obj\Debug\PVille_Market.csprojResolveAssemblyReference.cache
+J:\final\trunk\PVille_Market\PVille_Market\obj\Debug\PVille_Market.csproj.CoreCompileInputs.cache
+J:\final\trunk\PVille_Market\PVille_Market\obj\Debug\PVille_Market.csproj.CopyComplete
+J:\final\trunk\PVille_Market\PVille_Market\obj\Debug\PVille_Market.dll
+J:\final\trunk\PVille_Market\PVille_Market\obj\Debug\PVille_Market.pdb
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\PVille_Market.dll.config
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\PVille_Market.dll
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\PVille_Market.pdb
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\roslyn\csc.exe
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\roslyn\csc.exe.config
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\roslyn\csc.rsp
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\roslyn\csi.exe
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\roslyn\csi.exe.config
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\roslyn\csi.rsp
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\roslyn\Microsoft.CodeAnalysis.dll
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\roslyn\Microsoft.CSharp.Core.targets
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\roslyn\Microsoft.VisualBasic.Core.targets
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\roslyn\Microsoft.Win32.Primitives.dll
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\roslyn\System.AppContext.dll
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Collections.Immutable.dll
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Console.dll
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Diagnostics.Process.dll
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Diagnostics.StackTrace.dll
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\roslyn\System.IO.Compression.dll
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\roslyn\System.IO.FileSystem.dll
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\roslyn\System.IO.FileSystem.Primitives.dll
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\roslyn\System.IO.Pipes.dll
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Reflection.Metadata.dll
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Security.AccessControl.dll
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Security.Claims.dll
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Security.Cryptography.Encoding.dll
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Security.Cryptography.Primitives.dll
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Security.Principal.Windows.dll
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Text.Encoding.CodePages.dll
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Threading.Thread.dll
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\roslyn\System.ValueTuple.dll
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Xml.ReaderWriter.dll
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Xml.XmlDocument.dll
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Xml.XPath.dll
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Xml.XPath.XDocument.dll
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\roslyn\vbc.exe
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\roslyn\vbc.exe.config
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\roslyn\vbc.rsp
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\roslyn\VBCSCompiler.exe
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\roslyn\VBCSCompiler.exe.config
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\Microsoft.Web.Infrastructure.dll
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\System.Web.Helpers.dll
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\System.Web.Mvc.dll
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\System.Web.Razor.dll
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\System.Web.Webpages.Deployment.dll
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\System.Web.Webpages.dll
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\System.Web.Webpages.Razor.dll
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\System.Web.Razor.xml
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\System.Web.Webpages.xml
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\System.Web.Webpages.Deployment.xml
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\System.Web.Webpages.Razor.xml
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\System.Web.Helpers.xml
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\bin\System.Web.Mvc.xml
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\obj\Debug\PVille_Market.csprojResolveAssemblyReference.cache
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\obj\Debug\PVille_Market.csproj.CoreCompileInputs.cache
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\obj\Debug\PVille_Market.csproj.CopyComplete
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\obj\Debug\PVille_Market.dll
+J:\Programming\Web Protocols\New folder\trunk\PVille_Market\PVille_Market\obj\Debug\PVille_Market.pdb
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\PVille_Market.dll.config
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\PVille_Market.dll
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\PVille_Market.pdb
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\roslyn\csc.exe
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\roslyn\csc.exe.config
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\roslyn\csc.rsp
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\roslyn\csi.exe
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\roslyn\csi.exe.config
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\roslyn\csi.rsp
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\roslyn\Microsoft.CodeAnalysis.dll
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\roslyn\Microsoft.CSharp.Core.targets
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\roslyn\Microsoft.VisualBasic.Core.targets
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\roslyn\Microsoft.Win32.Primitives.dll
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\roslyn\System.AppContext.dll
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Collections.Immutable.dll
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Console.dll
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Diagnostics.Process.dll
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Diagnostics.StackTrace.dll
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\roslyn\System.IO.Compression.dll
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\roslyn\System.IO.FileSystem.dll
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\roslyn\System.IO.FileSystem.Primitives.dll
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\roslyn\System.IO.Pipes.dll
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Reflection.Metadata.dll
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Security.AccessControl.dll
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Security.Claims.dll
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Security.Cryptography.Encoding.dll
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Security.Cryptography.Primitives.dll
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Security.Principal.Windows.dll
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Text.Encoding.CodePages.dll
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Threading.Thread.dll
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\roslyn\System.ValueTuple.dll
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Xml.ReaderWriter.dll
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Xml.XmlDocument.dll
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Xml.XPath.dll
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Xml.XPath.XDocument.dll
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\roslyn\vbc.exe
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\roslyn\vbc.exe.config
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\roslyn\vbc.rsp
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\roslyn\VBCSCompiler.exe
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\roslyn\VBCSCompiler.exe.config
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\Microsoft.Web.Infrastructure.dll
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\System.Web.Helpers.dll
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\System.Web.Mvc.dll
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\System.Web.Razor.dll
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\System.Web.Webpages.Deployment.dll
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\System.Web.Webpages.dll
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\System.Web.Webpages.Razor.dll
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\System.Web.Razor.xml
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\System.Web.Webpages.xml
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\System.Web.Webpages.Deployment.xml
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\System.Web.Webpages.Razor.xml
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\System.Web.Helpers.xml
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\bin\System.Web.Mvc.xml
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\obj\Debug\PVille_Market.csprojResolveAssemblyReference.cache
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\obj\Debug\PVille_Market.csproj.CoreCompileInputs.cache
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\obj\Debug\PVille_Market.csproj.CopyComplete
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\obj\Debug\PVille_Market.dll
+J:\Programming\Web Protocols\Web_Protocols_Final_Project.git\trunk\PVille_Market\PVille_Market\obj\Debug\PVille_Market.pdb
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\PVille_Market.dll.config
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\PVille_Market.dll
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\PVille_Market.pdb
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\roslyn\csc.exe
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\roslyn\csc.exe.config
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\roslyn\csc.rsp
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\roslyn\csi.exe
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\roslyn\csi.exe.config
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\roslyn\csi.rsp
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\roslyn\Microsoft.CodeAnalysis.dll
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\roslyn\Microsoft.CSharp.Core.targets
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\roslyn\Microsoft.VisualBasic.Core.targets
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\roslyn\Microsoft.Win32.Primitives.dll
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\roslyn\System.AppContext.dll
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Collections.Immutable.dll
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Console.dll
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Diagnostics.Process.dll
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Diagnostics.StackTrace.dll
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\roslyn\System.IO.Compression.dll
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\roslyn\System.IO.FileSystem.dll
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\roslyn\System.IO.FileSystem.Primitives.dll
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\roslyn\System.IO.Pipes.dll
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Reflection.Metadata.dll
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Security.AccessControl.dll
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Security.Claims.dll
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Security.Cryptography.Encoding.dll
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Security.Cryptography.Primitives.dll
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Security.Principal.Windows.dll
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Text.Encoding.CodePages.dll
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Threading.Thread.dll
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\roslyn\System.ValueTuple.dll
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Xml.ReaderWriter.dll
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Xml.XmlDocument.dll
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Xml.XPath.dll
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\roslyn\System.Xml.XPath.XDocument.dll
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\roslyn\vbc.exe
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\roslyn\vbc.exe.config
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\roslyn\vbc.rsp
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\roslyn\VBCSCompiler.exe
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\roslyn\VBCSCompiler.exe.config
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\Microsoft.Web.Infrastructure.dll
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\System.Web.Helpers.dll
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\System.Web.Mvc.dll
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\System.Web.Razor.dll
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\System.Web.Webpages.Deployment.dll
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\System.Web.Webpages.dll
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\System.Web.Webpages.Razor.dll
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\System.Web.Razor.xml
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\System.Web.Webpages.xml
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\System.Web.Webpages.Deployment.xml
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\System.Web.Webpages.Razor.xml
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\System.Web.Helpers.xml
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\bin\System.Web.Mvc.xml
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\obj\Debug\PVille_Market.csprojResolveAssemblyReference.cache
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\obj\Debug\PVille_Market.csproj.CoreCompileInputs.cache
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\obj\Debug\PVille_Market.csproj.CopyComplete
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\obj\Debug\PVille_Market.dll
+J:\Programming\Web Protocols\Final Project\trunk\PVille_Market\PVille_Market\obj\Debug\PVille_Market.pdb

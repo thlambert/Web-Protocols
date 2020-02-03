@@ -1,0 +1,51 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="SiteMaster.master.cs" Inherits="PVille_Market.SiteMaster" %>
+
+<!DOCTYPE html>
+<html>
+   <head>
+       <title>
+           Platteville MarketPlace
+       </title>
+       <asp:ContentPlaceHolder ID="Master" runat="server">
+           <link rel="stylesheet" href="Styles.css" type="text/css"/>
+       </asp:ContentPlaceholder>
+   </head>
+  <body>
+      <form id="form1" runat="server">
+      <div class="PageTitle">
+          <font size="24">Platteville MarketPlace</font>
+      </div>
+
+      <ul class="navbar">
+        <li> 
+            <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/LoginPage.aspx">Logout</asp:HyperLink>
+          </li>
+          <li> 
+              <asp:HyperLink ID="HyperLink4" runat="server" NavigateUrl="~/HomePage.aspx">Home Page</asp:HyperLink>
+          </li>
+
+        <li> <asp:HyperLink ID="HyperLink3" runat="server" NavigateUrl="~/CreateListing.aspx">Create New Listing</asp:HyperLink>
+            </li>
+
+        <li> 
+            <asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/CheckoutPage.aspx">Checkout</asp:HyperLink>
+        </li>
+    </ul>
+
+      
+
+        <div class="container body-content">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+            <hr />
+            <footer>
+                <p>&copy; <%: DateTime.Now.Year %> - Platteville MarketPlace 2019</p>
+            </footer>
+        </div>
+      
+      </form>
+      
+  </body>
+</html>
+
+
